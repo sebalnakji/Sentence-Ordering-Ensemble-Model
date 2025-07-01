@@ -34,17 +34,20 @@
 
 ### 기타
 
--개발 환경: Colab(A100) <br>
--선정 모델: <br>
-  - https://huggingface.co/klue/roberta-large <br>
-  - https://huggingface.co/kykim/bert-kor-base <br>
-  - https://huggingface.co/kykim/electra-kor-base <br>
--파인튜닝 모델 <br>
-  - https://huggingface.co/sebalnakji/roberta-large-pt <br>
-  - https://huggingface.co/sebalnakji/bert-kor-base-pt <br>
-  - https://huggingface.co/sebalnakji/electra-kor-base-pt <br>
--재예측용 모델 <br>
-  - https://huggingface.co/Qwen/Qwen3-14B
+**개발 환경:** Colab(A100)
+
+**선정 모델:**
+- https://huggingface.co/klue/roberta-large
+- https://huggingface.co/kykim/bert-kor-base
+- https://huggingface.co/kykim/electra-kor-base
+
+**파인튜닝 모델:**
+- https://huggingface.co/sebalnakji/roberta-large-pt
+- https://huggingface.co/sebalnakji/bert-kor-base-pt
+- https://huggingface.co/sebalnakji/electra-kor-base-pt
+
+**재예측용 모델:**
+- https://huggingface.co/Qwen/Qwen3-14B
   
   
   
