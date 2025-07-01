@@ -2,7 +2,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 
-![Image](https://github.com/user-attachments/assets/79d3943d-654e-4f58-b843-cd93bdf630ed)
+![Image](https://github.com/user-attachments/assets/667b4014-2a6d-43cc-8444-82a46aa1eb39)
 
 ## 대회 정보
 
