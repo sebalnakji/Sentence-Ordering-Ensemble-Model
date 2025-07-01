@@ -6,6 +6,8 @@
 
 ## 대회 정보
 
+[문맥 기반 문장 순서 예측 AI 경진대회](https://dacon.io/competitions/official/236489/overview/description)
+
 [주제] <br>
 뒤섞인 한국어 문장의 올바른 순서를 예측하는 AI 알고리즘 개발
 
