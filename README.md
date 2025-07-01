@@ -2,7 +2,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 
-## [DACON] 문맥 기반 문장 순서 예측 AI 경진대회
+![Image](https://github.com/user-attachments/assets/79d3943d-654e-4f58-b843-cd93bdf630ed)
 
 ## 대회 정보
 
