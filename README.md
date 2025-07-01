@@ -5,6 +5,7 @@
 ## [DACON] 문맥 기반 문장 순서 예측 AI 경진대회
 
 ### 대회 정보
+
 [주제] <br>
 뒤섞인 한국어 문장의 올바른 순서를 예측하는 AI 알고리즘 개발
 
@@ -15,6 +16,7 @@
 2025년 05월 07일 ~ 2025년 06월 30일
 
 ### 대회 전략
+
 1. 모델 선정 및 성능 평가 <br>
    -한국어 처리에 특화된 8개의 사전 훈련된 인코더 모델을 대상으로 베이스라인 성능을 평가하여, 가장 우수한 성능을 보인 상위 3개 모델 선정 <br><br>
 2. Pairwise Learning 기반 파인튜닝 <br>
@@ -27,14 +29,16 @@
    -앙상블 모델의 예측 신뢰도가 50% 미만인 경우, QWEN2.5 14B를 활용한 재예측 수행 <br><br>
 
 ### 대회 결과 
+
 [Private 34th] Score 0.80561
 
 ### 기타
+
 -개발 환경: Colab(A100) <br>
 -선정 모델: <br>
-  https://huggingface.co/klue/roberta-large <br>
-  https://huggingface.co/kykim/bert-kor-base <br>
-  https://huggingface.co/kykim/electra-kor-base <br>
+  - https://huggingface.co/klue/roberta-large <br>
+  - https://huggingface.co/kykim/bert-kor-base <br>
+  - https://huggingface.co/kykim/electra-kor-base <br>
 -파인튜닝 모델 <br>
   https://huggingface.co/sebalnakji/roberta-large-pt <br>
   https://huggingface.co/sebalnakji/bert-kor-base-pt <br>
